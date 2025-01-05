@@ -1,0 +1,300 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color:white;
+    padding: 20px;
+    
+}
+nav ul{
+    list-style-type: none;
+    text-align: center;
+  
+  }
+  nav ul li{
+    display: inline-block;
+    margin: 10px;
+}
+li a{
+    text-decoration: none;
+    font-size: 16px;
+    color: blueviolet;
+
+}
+#section1{
+
+    background-color: blueviolet;
+    text-align: center;
+    height: 100vh;
+    
+}
+#section1 h1{
+    
+    
+    color: white;
+font-size: 100px;
+margin-bottom: 40px;
+}
+#section1 p{
+    
+    
+    color: white;
+font-size: 70px;
+
+
+}
+
+
+#section2{
+
+    background-color: white;
+    text-align: center;
+    
+}
+#section2 h2{
+    color:black;
+    font-size: 35px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+ #section2 p{
+    color: black;
+    font-size: 35px;
+    margin-bottom: 50px;
+    
+
+}
+#section2 p a{
+    color: blueviolet;
+    text-decoration: none;
+
+}
+
+.parentclass{
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+.class{
+    float: left;
+    width: 30%;
+    text-align: center;
+}
+.class img {
+    width: 100%;
+    height: 200px;
+}
+.clear {
+    clear: both ;
+}
+/* ///////////////// */
+.parentclass2{
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+.class2{
+    float: left;
+    width: 30%;
+    text-align: center;
+}
+.class2 img {
+    width: 100%;
+    height: 200px;
+}
+
+
+
+/* /////////////////// */
+.parentclass3{
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+.class3{
+    float: left;
+    width: 30%;
+    text-align: center;
+}
+.class3 img {
+    width: 100%;
+    height: 200px;
+}
+
+/* /////////////////// */
+.parentclass4{
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+.class4{
+    float: left;
+    width: 30%;
+    text-align: center;
+}
+.class4 img {
+    width: 100%;
+    height: 200px;
+}
+
+ #section3 p{
+    text-align: center;
+    color: black;
+ }
+ #section3 p a{
+   color: blueviolet;
+   text-decoration:none ;
+
+   margin: bottom 50px;}
+   #section4{
+    margin-top:60px;
+    text-align: center;
+   }
+   #section4 h3{
+    color: black;
+    font-size: 50px;
+
+   }
+   #section4 p{
+    color: black;
+    font-size: 30px;
+
+
+   }
+ #section4 p a{
+    color: blueviolet;
+    font-size: 30px;
+    text-decoration: none;
+margin-bottom: 70px;
+   }
+
+   .parentlink{
+    margin-top: 70px;
+
+   }
+.link{
+    display: inline-block;
+}
+.link4{
+    margin-left: 350px;
+}
+.link3{
+    margin-left: 300px;
+}
+.link2{
+    margin-left: 250px;
+}
+.link1{
+    margin-left: 200px;
+}
+.clear2{
+    clear: both;
+}
+
+   .section5{
+    text-align: center;
+margin-top: 50px;
+   }
+   .section5 h3{
+    font-size: 50px;
+    color: black;
+   }
+   .section5 p{
+    font-size: 30px;
+    color: black;
+   }
+.high-class{
+    background-color:antiquewhite;
+}
+.last{
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+}
+
+.last img{
+    width: 100%;
+    background-color: white;
+}
+.thelast{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.last a{
+    text-decoration: none;
+}
+.last1{
+    margin-right: 30px;
+}
+.last2{
+    margin-right: 30px;
+}
+.last3{
+    margin-right: 30px;
+}
+.clear3{
+    clear: both;
+}
+
+.final{
+    text-align: center;
+    background-color: aliceblue;
+    margin-top: 50px;
+
+}
+.final .p1{
+
+    font-size: 50px;
+    margin-top: 30px;
+}
+.final .p2{
+
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.final .a1 , .a2 ,.a3{
+    text-decoration: none;
+    font-size: 25px;
+
+}
+ .a1{
+    margin-top: 30px;
+}
+.p3, .p5, .p7{
+    margin-bottom:30px ;
+}
+.p4, .p6, .p8
+{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.ppp{
+    margin-top: 70px;
+    background-color:aliceblue;
+    text-align: center;
+}
+.pp{
+    color: black;
+    font-size: 40px;
+}
+
+.pppp{
+    margin-top: 15px;
+    color: black;
+    font-size: 40px;
+}
+
+input[type=email]
+{
+    display: inline;
+    height: 20px;
+    width: 40%;
+}
+.facebook-icon {
+    width: 32px;
+    height: 32px;
+    background-image: url('path/to/facebook-icon.png');
+    background-size: cover;
+}
